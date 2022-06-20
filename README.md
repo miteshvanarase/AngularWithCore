@@ -1,0 +1,2 @@
+# AngularWithCore
+Angular Projects
